@@ -1,20 +1,14 @@
  
-# <p align="center"> <b> IMERSÃO DADOS ALURA - ANÁLISE EDUCAÇAO (EXAME NACIONAL DO ENSINO MÉDIO)  </b> 
+# <p align="center"> <b> IMERSÃO DADOS ALURA - ANÁLISE DA EDUCAÇÃO (EXAME NACIONAL DO ENSINO MÉDIO)  </b> 
 
 ## Edit:
-Projeto selecionado em primeiro lugar na Imersão de Dados Alura, concorrendo entre mais de 200 participantes.</br> 
+Projeto Imersão de Dados Alura </br> 
 
-Artigo com racional de análise: <a href= "https://www.linkedin.com/posts/daiane-klein_com-muita-gratid%C3%A3o-que-compartilho-com-voc%C3%AAs-activity-6727278058442678272-tWt6"> Imersão Dados Alura: Como desenvolvi minha análise </a> </br> 
-
-Live com a divulgação do ganhador (Anúncio do ganhador começa em 40min50s): <a href= "https://www.youtube.com/watch?v=j_dMCggTx4c&t=2601s"> Encerramento da Imersão e Lançamento do Bootcamp - com Átila Iamarino  </a> </br> 
-
-Acesse o notebook completo <a href="https://github.com/daianeklein/imersao-dados-Alura/blob/main/Analise-Educacao.ipynb"> aqui </a></br>
- 
-##  💻 Sobre o projeto</br> </br> 
+##  💻 o projeto</br> </br> 
 
 O projeto foi proposto na Imersão Dados promovida pela <a href="https://www.alura.com.br/imersao-dados"> Alura </a>, onde foram analisados dados do Exame Nacional do Ensino Médio - ENEM.
 
-Por meio da análise exploratória de dados, este projeto teve como objetivo analisar o impacto  da renda dos candidatos do estado de São Paulo em seu desempenho no exame (temática de escolha pessoal).
+Adotando análise exploratória de dados, este projeto teve como objetivo analisar o impacto  da renda dos candidatos do estado de São Paulo em seu desempenho no exame.
 Para tanto, foram utilizados dados disponíveis no site do <a href="http://inep.gov.br/microdados"> INEP </a> e as notas de corte do SISU para ingresso nas principais instituicões públicas de SP.
   
 A lógica para análise foi baseada:
@@ -47,19 +41,19 @@ Nesta segunda edição, foram 5 dias consecutivos de conteúdos, sendo:
 <b> Aula 5 </b> - Storytelling em Data Science</br>
 
 
----
+---------
 
 ## 🛠 Tecnologias
 
-As análises foram desenvolvidos na linguagem Python, utilizando o Jupyter Notebook e suas bibliotecas.
+Análises desenvolvidas com linguagem Python e suas bibliotecas no ambiente IDE Jupyter.
 
----
+----------
 
-## 👨‍💻 Contribuição
+## 👨‍💻 Base do projeto da Daiane Klein - ganhadora do imersão Alura.
 
-Sinta-se a vontade para contribuir com sugestões, dicas, melhores práticas, etc. Toda ajuda é bem-vinda 💜
+Sinta-se a vontade para contribuir com sugestões e melhorias. Toda ajuda é bem-vinda!
 
-## 💪 Como contribuir para o projeto
+## Como contribuir para este estudo
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
